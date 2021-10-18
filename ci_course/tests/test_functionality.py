@@ -13,7 +13,7 @@ class TestFunctionality(unittest.TestCase):
         self.assertEqual(ci_course.minimum(1, 2, 3), 1)
         self.assertEqual(ci_course.minimum(1.2, 2.3), 1.2)
         self.assertEqual(ci_course.minimum(-1.2, -3), -3)
-        self.assertEqual(ci_course.minimum(3+4j,2+j),None)
+        self.assertEqual(ci_course.minimum('hello','hellohello'),None)
 
 
 if __name__ == '__main__':
