@@ -1,4 +1,8 @@
-[![Upload Python Package](https://github.com/FusionLocus/ci-course/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/FusionLocus/ci-course/actions/workflows/unit-tests.yml)
+[![Unit tested](https://github.com/FusionLocus/ci-course/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/FusionLocus/ci-course/actions/workflows/unit-tests.yml)
+
+[![codecov](https://codecov.io/gh/FusionLocus/ci-course/branch/main/graph/badge.svg?token=YPM0WY81P7)](https://codecov.io/gh/FusionLocus/ci-course)
+
+[![BCH compliance](https://bettercodehub.com/edge/badge/FusionLocus/ci-course?branch=main)](https://bettercodehub.com/)
 
 # OxRSE Continuous Integration course
 
